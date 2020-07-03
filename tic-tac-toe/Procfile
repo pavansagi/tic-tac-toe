@@ -1,1 +1,1 @@
-web: gunicorn tic-tac-toe-intelligent:app
+web: gunicorn setup:app
